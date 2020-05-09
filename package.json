@@ -1,0 +1,21 @@
+{
+  "name": "mental-model-article",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "matter-js": "^0.14.2"
+  },
+  "devDependencies": {
+    "@types/matter-js": "^0.14.2",
+    "nodemon": "^2.0.3",
+    "parcel": "^1.12.4",
+    "typescript": "^3.8.3"
+  }
+}
